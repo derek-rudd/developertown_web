@@ -1,4 +1,4 @@
-console.log("js has been loaded");
+console.log("JS file started loading");
 $(document).ready(function(){
   
   function init() { 
